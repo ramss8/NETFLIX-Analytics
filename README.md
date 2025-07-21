@@ -5,12 +5,17 @@ This project presents an interactive Power BI dashboard designed to provide comp
 
 This demonstrates the significant power and flexibility of Power Query for data preparation and how effective data storytelling can be achieved through meticulous data modeling and intuitive visual design.
 
-## Dataset
+## Tools used:
+*  **Power BI:** For data visulidsation.
+*  **Power Query:** For data transformation.
+*  **Excel:** For Data cleaning.
+*  **Kaggle:** For Dataset.
 
+## Dataset
 The dashboard is built upon a dataset of Netflix TV shows and movies, comprising 12 key columns:
 `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`.
 
-**Kaggle Dataset:** https://lnkd.in/dYTi-STA
+**Dataset:** https://lnkd.in/dYTi-STA
 
 ## Dashboard Features & Key Insights
 * **Key Performance Indicators (KPIs):**
@@ -56,4 +61,4 @@ While this dashboard successfully avoids DAX, future enhancements could include:
 
 ## Author
 
-[Ram Sharma / Your GitHub Username]
+[Ram Sharma]
