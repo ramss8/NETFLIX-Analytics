@@ -56,9 +56,8 @@ While this dashboard successfully avoids DAX, future enhancements could include:
 * **User-Defined Metrics:** Allowing users to dynamically switch between different aggregation types.
 
 ## Screenshot
-
-![Netflix Dashboard Overview](Netflix%20Dashbord.jpg)
+* **Dashboard Image:** https://github.com/ramss8/NETFLIX-Analytics/blob/main/Netflix%20Dashbord%20Snapshot.jpg
+* **Dashboard Video Demonstration:** https://github.com/ramss8/NETFLIX-Analytics/blob/main/Netflix%20Dashboard%20Video%20Demonsration.mp4
 
 ## Author
-
 [Ram Sharma]
