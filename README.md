@@ -5,7 +5,7 @@ This project presents an interactive Power BI dashboard designed to provide comp
 
 This demonstrates the significant power and flexibility of Power Query for data preparation and how effective data storytelling can be achieved through meticulous data modeling and intuitive visual design.
 
-## Tools used:
+## Tools used
 *  **Power BI:** For data visulidsation.
 *  **Power Query:** For data transformation.
 *  **Excel:** For Data cleaning.
