@@ -58,8 +58,7 @@ While this dashboard successfully avoids DAX, future enhancements could include:
 ## Screenshot
 * **Dashboard Preview:** 
 ![Dashboard Image](https://github.com/ramss8/NETFLIX-Analytics/blob/main/Netflix%20Dashbord%20Snapshot.jpg)
-* **Dashboard Video Demonstration:**
-![Dasboard Demostration](https://github.com/ramss8/NETFLIX-Analytics/blob/main/Netflix%20Dashboard%20Video%20Demonsration.mp4)
+* **Dashboard Video Demonstration:** https://github.com/ramss8/NETFLIX-Analytics/blob/main/Netflix%20Dashboard%20Video%20Demonsration.mp4
 
 ## Author
 [Ram Sharma]
